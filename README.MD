@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Follonier, Rodrigo Alejandro
+- **Nombre:** Follonier, Rodrigo Alejandro.
 - **Comisión:** M2025-13 
 
 ## 📂 Descripción del Repositorio  
