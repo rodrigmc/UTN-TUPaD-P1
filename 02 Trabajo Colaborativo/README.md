@@ -1,7 +1,6 @@
 Follonier Rodrigo - Comisión 13
-Entrega TP 2 
+Entrega TP 2 archivo PDF >>> FOLLONIER_TP_02.PDF
 Repositorios práctica: 
-
 URL repositorio 1: 
 https://github.com/rodrigmc/TP2-GIT.git
 
